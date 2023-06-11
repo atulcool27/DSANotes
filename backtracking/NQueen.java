@@ -39,12 +39,14 @@ public class NQueen {
 		
 		//Logic
 		for(int i=0;i<board.length;i++) {
-			if(positionEligible(board,row,i)) {
-				board[row][i]=1;
-				solveNQueen(board,row+1);
-				board[row][i]=0;
-			}else {
-				solveNQueen(board,row+1);
+			if(!solutionFound) {
+				if(positionEligible(board,row,i)) {
+					board[row][i]=1;
+					solveNQueen(board,row+1);
+					board[row][i]=0;
+				}else {
+					solveNQueen(board,row+1);
+				}
 			}
 		}
 		
