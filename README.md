@@ -6,6 +6,7 @@ A repo of my revision notes for my future self.
 Topic Name            |  Path          |  
 :-------------------------:|:-------------------------:|
 Sudoku Solver  |  backtracking/SudokuSolver.java  |  
+N-Queen  |  backtracking/NQueen.java  |  
 
 
 
