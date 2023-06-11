@@ -1,2 +1,15 @@
-# DSANotes
-This repo is going to be like a revision material for me for quick revisions. This repo is public so others who find the material useful can also utilize it.
+# DSA-Notes
+
+A repo of my revision notes for my future self.
+
+
+Topic Name            |  Path          |  
+:-------------------------:|:-------------------------:|
+Sudoku Solver  |  backtracking/SudokuSolver.java  |  
+
+
+
+If you found this resource to be useful and want to support. 
+Subscribe to me @Youtube at https://www.youtube.com/channel/UCwT5vctxjrOAlwLVzpJbgKQ
+
+Cheers!
