@@ -3,8 +3,6 @@
 A repo of my revision notes for my future self.
 
 
-Top 10 Backtracking Problems            |   
-:-------------------------:|
 Topic Name            |  Path          |  
 :-------------------------:|:-------------------------:|
 Sudoku Solver  |  backtracking/SudokuSolver.java  |  
