@@ -10,7 +10,7 @@ N-Queen  |  backtracking/NQueen.java  |
 
 Sorting            |                                               Path                                               |  
 :-------------------------:|:------------------------------------------------------------------------------------------------:|
-Insertion-sorting concept  | [link](https://github.com/atulcool27/DSANotes/blob/main/com/main/dsa/sorting/InsertionSort.java) |  
+Insertion-sorting concept  | [link](https://github.com/atulcool27/DSANotes/blob/main/src/main/java/com/main/dsa/sorting/InsertionSort.java) |  
 
 
 
